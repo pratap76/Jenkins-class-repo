@@ -1,4 +1,4 @@
-echo "this is test data"
+echo "secon change made in this test data"
 date
 cal
 echo "bye"
