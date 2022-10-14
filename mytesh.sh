@@ -3,3 +3,4 @@ date
 cal
 echo "bye"
 echo pratap sourav singh
+echo Ho whatsapp
