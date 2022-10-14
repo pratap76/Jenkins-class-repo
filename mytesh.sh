@@ -4,3 +4,4 @@ cal
 echo "bye"
 echo pratap sourav singh
 echo Ho whatsapp
+Hi how r u
